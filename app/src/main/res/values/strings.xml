@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="list_item">List item</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="delete_list">Delete list</string>
+    <string name="Error_Adding_Item">Error adding item</string>
+    <string name="Item_added">Item added</string>
+    <string name="List_is_aldready_empty">List is already empty</string>
+    <string name="Deleted_list">Deleted list</string>
+    <string name="deleted_item">Deleted item</string>
+    <string name="your_shopping_list">Your shopping list</string>
+    <string name="add_items">ADD ITEMS</string>
+
+</resources>
